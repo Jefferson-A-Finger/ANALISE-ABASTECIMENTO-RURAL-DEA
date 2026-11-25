@@ -1,5 +1,5 @@
 # =====================================================================================
-# APÊNDICE C — SCRIPT DA SEGUNDA ANÁLISE (MODELO B, OPERACIONAL)
+# SCRIPT DA SEGUNDA ANÁLISE (MODELO B, OPERACIONAL)
 # DEA-BCC orientado ao produto — sistemas rurais de Marechal Cândido Rondon – PR
 #
 # Insumo:   X1 = consumo anual de energia elétrica (kWh/ano; soma das 12 contas de luz)

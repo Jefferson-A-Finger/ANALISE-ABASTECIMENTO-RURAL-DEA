@@ -1,10 +1,10 @@
 # =====================================================================================
-# APÊNDICE D — SCRIPT DE CRUZAMENTO ENTRE AS ANÁLISES E SEGUNDA ETAPA
+# SCRIPT DE CRUZAMENTO ENTRE AS ANÁLISES E SEGUNDA ETAPA
 # 1) Cruzamento Modelo A × Modelo B: Spearman entre escores e concordância das eficientes
 # 2) Segunda etapa: escores × condições físicas e × ocorrências fora do padrão de 2017
 #    (cloro residual, E. coli, coliformes totais — Goulart, 2017, fonte SAAE)
-# Entradas: Resultados_Modelo_A_R.xlsx (Apêndice B), Resultados_Modelo_B_R.xlsx
-# (Apêndice C, se já houver) e Planilha_Estatistica_DEA_41.xlsx, aba "Segunda_etapa".
+# Entradas: Resultados_Modelo_A_R.xlsx (script 01_modelo_A.R), Resultados_Modelo_B_R.xlsx
+# (script 02_modelo_B.R, se já houver) e Planilha_Estatistica_DEA_41.xlsx, aba "Segunda_etapa".
 # =====================================================================================
  
 library(readxl); library(writexl)

@@ -1,5 +1,5 @@
 # =====================================================================================
-# APÊNDICE B — SCRIPT DA PRIMEIRA ANÁLISE (MODELO A, ESTRUTURAL)
+# SCRIPT DA PRIMEIRA ANÁLISE (MODELO A, ESTRUTURAL)
 # DEA-BCC orientado ao produto — 41 sistemas rurais de Marechal Cândido Rondon – PR
 # Jefferson Antônio Finger — TCC2 — Engenharia Civil — UTFPR Toledo
 #
